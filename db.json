@@ -1,0 +1,32 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Post 1",
+            "body": "this is a post body",
+            "publishedAt": "2020-01-01"
+
+        },
+        {
+            "id": "2",
+            "title": "this is a post",
+            "body": "this is a post body",
+            "publishedAt": "2020-01-01"
+
+        },
+        {
+            "id": "3",
+            "title": "this is a post copyright",
+            "body": "this is a post body",
+            "publishedAt": "2020-01-01"
+
+        }
+    ],
+    "users": [
+        {
+            "id":"1",
+            "name":"John Doe",
+            "email":"kenaa@example.com"
+        }
+    ]
+}
